@@ -17,8 +17,8 @@ A command-line ETL pipeline tool that safely migrates legacy CSV data into Postg
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd migration-engine
+git clone https://github.com/okjazim/Migration-Engine.git
+cd Migration-Engine
 
 # Install dependencies
 pip install -r requirements.txt
