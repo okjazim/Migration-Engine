@@ -204,5 +204,5 @@ pytest
 ```
 
 ## License
-
-MIT License
+This project is licensed under the **MIT License**.
+See [`LICENSE`](LICENSE) for details. © 2026 okjazim
